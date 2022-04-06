@@ -10,7 +10,7 @@ import (
 	"net/http/httptest"
 	"time"
 
-	"github.com/google/jsonapi"
+	jsonapi "github.com/printesoi/go.jsonapi"
 )
 
 func main() {

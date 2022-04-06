@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/google/jsonapi"
+	jsonapi "github.com/printesoi/go.jsonapi"
 )
 
 const (
